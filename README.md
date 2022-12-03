@@ -10,3 +10,5 @@
 2. Content-based
 3. Collaborative filtering
 4. W2V(word to vector)
+
+And dataset with analyze and shows.csv. analyze.csv file has rating, but shows file didn't have it.
