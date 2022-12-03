@@ -1,4 +1,4 @@
-# MachineLearning Project
+# Machine Learning Project
 
 ### Made by: Park TaeHwan, Kim SungHoon, Lee HyenSeo
 ### This project consists of two steps:
