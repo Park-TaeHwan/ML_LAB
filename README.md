@@ -1,6 +1,6 @@
 # Machine Learning Project
 
-### Made by: Park TaeHwan, Kim SungHoon, Lee HyenSeo
+#### Made by: Park TaeHwan, Kim SungHoon, Lee HyenSeo
 ### This project consists of two steps:
 
 - Classification_Lab1 and Clustering_Lab2 analyzes one dataset to derive results through a classification and clustering process.
