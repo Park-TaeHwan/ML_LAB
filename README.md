@@ -2,7 +2,7 @@
 
 ### This project consists of two steps:
 
-- Lab 1 and Lab2 analyzes one dataset to derive results through a codeification process.
+- Lab 1 and Lab2 analyzes one dataset to derive results through a classification and clustering process.
 
 - Termp is the implementation code of the recommended system. This item consists of three items:
 
