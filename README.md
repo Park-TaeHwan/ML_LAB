@@ -3,12 +3,17 @@
 ### Made by: Park TaeHwan, Kim SungHoon, Lee HyenSeo
 ### This project consists of two steps:
 
-- Lab 1 and Lab2 analyzes one dataset to derive results through a classification and clustering process.
+- Classification_Lab1 and Clustering_Lab2 analyzes one dataset to derive results through a classification and clustering process.
 
-- Termp is the implementation code of the recommended system. This item consists of three items:
+- Recommend_Project is the implementation code of the recommended system. This item consists of 4 items:
+
 1. K-Modes
 2. Content-based
 3. Collaborative filtering
 4. W2V(word to vector)
 
+<<<<<<< HEAD
 And dataset with analyze and shows.csv. analyze.csv file has rating, but shows file didn't have it.
+=======
+And dataset with analyze and shows.csv. analyze.csv file has rating, but shows file didn't have it.
+>>>>>>> b1e819fd66e616f587f2a7e8cefd9c8cfa283c64
